@@ -1,4 +1,4 @@
-# [level 0] 정수 찾기 181920
+# [level 0] 카운트 업 181920
 ## 1. 주소
   [링크](https://school.programmers.co.kr/learn/courses/30/lessons/181920)
 
