@@ -9,4 +9,4 @@ function solution(n) {
   answer = num % 2 === 0 ? even : odd
   return answer;
 }
-solution(10)
+
